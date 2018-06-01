@@ -32,7 +32,9 @@ $ cd walshtesting.github.io
 ```
 10. Make a change to index.html - I'd suggest adding your name to the Title field.
 
-11. Any future changes can be made with your standard workflow:
+11. Visit <username>.github.io in your browser. Again, <username> should be replaced with your own username. I.e. walshbr.github.io for walshbr. You've got a portfolio live and on the internet! We won't customize this at all, but feel free to use this as a sandbox if you're interested in exploring HTML and CSS on your own. During the week we will just have you replicate a few tags to make a portfolio of the work you have done during the course.
+
+12. Any future changes can be made with your standard workflow:
 
 ```
  **make a change**
